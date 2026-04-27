@@ -16,7 +16,7 @@ A simple Python program that generates strong and secure passwords based on user
 * Customizable length
 * Includes letters, numbers, and special characters
 * Helps improve security awareness
-
+  
 **Tech Used:**
 
 * Python
